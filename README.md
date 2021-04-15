@@ -16,7 +16,7 @@ Have **Docker Desktop** and an **X11** forwarding software (such as **XLauncher*
 - In the ***docker-compose.yml*** file, change the DISPLAY variable on line 9 to:
 
 ```bash
-DISPLAY=<your-ipv4>:0.0
+DISPLAY=<your-ip>:0.0
 ```
 
 - Run the command:
