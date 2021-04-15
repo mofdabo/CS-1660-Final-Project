@@ -1,5 +1,4 @@
-# CS 1660 - Course Project #1 
-# (Data Science Toolbox) 
+# CS 1660 - Course Project #1 (Data Science Toolbox) 
 
 Microservices-based application where there is one main microservice that acts as the main application showing a User Interface.
 
@@ -32,7 +31,7 @@ Click on the button of the microservice you would like to launch. Give it some t
 The microservices listed below require additional steps to use:
 - IBM SAS
   - Either create a new account or login to the service.
-- Git
+- Git/Gitea
   - Either create a new account or login to the service.
 - Orange
   - At the top of the sceen it will ask you for a password
