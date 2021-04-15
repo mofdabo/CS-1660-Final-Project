@@ -1,4 +1,5 @@
-# CS 1660 - Course Project #1 (Data Science Toolbox) 
+# CS 1660 - Course Project #1 
+# (Data Science Toolbox) 
 
 
 Microservices-based  application where there is one main microservice that acts as the main application showing a User Interface.
@@ -30,8 +31,13 @@ docker-compose up
 Click on the button of the microservice you would like to launch.
 
 The microservices listed below require additional steps to use:
+- IBM SAS
+  - Either create a new account or login to the service.
 - Orange
-  - Password: orange
+  - At the top of the sceen it will ask you for a password
+    - Password: orange
+- Tableau
+  - Either create a new account or login to the service.
 - Tensorflow
   - If asked for a password/token, scroll down to the bottom of the page where it says **Setup a Password**, create token and a new password, and use either the token or password to log in.
 
@@ -45,4 +51,4 @@ These are the following applications that are currently not supported:
 
 
 ## Demo Video
-[Demo](https://google.com/)
+[COMING SOON](https://google.com/)

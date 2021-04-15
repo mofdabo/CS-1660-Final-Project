@@ -11,7 +11,7 @@ def open_IBM():
     wb.open_new('https://www.pdesas.org/Profile/Account/Login')
     
 def open_Git():
-    wb.open_new('http://host.docker.internal:7272/')
+    wb.open_new('http://host.docker.internal:3000/')
     
 def open_Jupyter():
     wb.open_new('http://host.docker.internal:8889/')
@@ -23,7 +23,7 @@ def open_VSCode():
     wb.open_new('http://host.docker.internal:8443/')
 
 #def open_Hadoop():
-#   wb.open_new('http://host.docker.internal:12345/')
+#   wb.open_new('')
 
 def open_Spark():
     wb.open_new('http://host.docker.internal:8080/')
@@ -32,7 +32,7 @@ def open_Tableau():
     wb.open_new('https://sso.online.tableau.com/public/idp/SSO/')
 
 #def open_Sonar():
-#    wb.open_new('https://sonarcloud.io/projects')
+#    wb.open_new('')
 
 def open_TensorFlow():
     wb.open_new('http://host.docker.internal:8989?token=easy/')
@@ -82,7 +82,7 @@ TableauButton = tk.Button(frame, text="Tableau", command=open_Tableau)
 TableauButton.pack()
 
 #SonarButton = tk.Button(frame, text="SonarQube and SonarScanner Binarie",  command=open_Sonar)
-#SonarButton.pack(side = tk.TOP)
+#SonarButton.pack()
 
 TensorflowButton = tk.Button(frame, text="Tensorflow", command=open_TensorFlow)
 TensorflowButton.pack()
