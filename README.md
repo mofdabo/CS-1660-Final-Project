@@ -52,4 +52,4 @@ These are the following applications that are currently not supported:
 
 
 ## Demo Video
-[DEMO](https://google.com/)
+[DEMO](https://www.youtube.com/watch?v=NZxJzpg47Hk)
